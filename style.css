@@ -1,0 +1,16 @@
+.Table,thead,tr,td,th
+{
+    border:solid 1px #000;
+    border-collapse: collapse;
+   
+}
+
+.r2{
+    background-color:rgb(137, 72, 197);
+}
+.r3{
+    background-color: cadetblue;
+}
+.r4{
+    background-color: crimson;
+}
